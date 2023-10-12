@@ -44,8 +44,8 @@ class _LoginPageState extends State<LoginPage> {
                   keyboardType: TextInputType.number,
                   decoration: InputDecoration(
                     contentPadding: EdgeInsets.all(0.0),
-                    labelText: 'Phone Number',
-                    hintText: 'Phone Number',
+                    labelText: 'Email',
+                    hintText: 'Email',
                     labelStyle: TextStyle(
                       color: Colors.black,
                       fontSize: 14.0,
@@ -76,8 +76,8 @@ class _LoginPageState extends State<LoginPage> {
                   keyboardType: TextInputType.number,
                   decoration: InputDecoration(
                     contentPadding: EdgeInsets.all(0.0),
-                    labelText: 'OTP',
-                    hintText: 'OTP',
+                    labelText: 'Password',
+                    hintText: 'Password',
                     hintStyle: TextStyle(
                       color: Colors.grey,
                       fontSize: 14.0,

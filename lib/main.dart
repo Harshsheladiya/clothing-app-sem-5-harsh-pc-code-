@@ -45,7 +45,7 @@ class _MyHomePageState extends State<MyHomePage> {
                   fontSize: 20, color: Colors.white),
             children: <TextSpan>[
               TextSpan(
-                text: 'Parichay Card',style: TextStyle(fontSize: 30,color: Colors.white)
+                text: 'E-comm',style: TextStyle(fontSize: 30,color: Colors.white)
               )
             ]),)
             ),
